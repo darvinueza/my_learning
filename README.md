@@ -3,4 +3,4 @@
 1. COURCERA
 2. UDEMY
 
-   a. Openshift 4 desde cero
+   a. OPENSHIFT 4 DESDE CERO
